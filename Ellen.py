@@ -45,7 +45,7 @@ if escolha == 10:
     st.subheader("Aceita viver comigo pra sempre?")
 
 
-    escolha_2 = st.radio("Escolha um Gráfico", ["N/A", "Não","Sim", "óbvio que sim"])
+    escolha_2 = st.radio("Escolha uma das opções", ["N/A", "Não","Sim", "óbvio que sim"])
 
     if escolha_2 == "óbvio que sim":
         st.title("Ebaaaaaa te amoooooooooo muitoooooooo!!!!!!!!!!!!!!")
