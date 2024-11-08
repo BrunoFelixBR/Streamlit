@@ -1,3 +1,4 @@
+pip show plotly
 
 #para rodar: python -m streamlit run Restaurante.py
 import streamlit as st
