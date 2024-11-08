@@ -1,5 +1,3 @@
-pip install streamlit
-pip install plotly.express
 
 #para rodar: python -m streamlit run Restaurante.py
 import streamlit as st
